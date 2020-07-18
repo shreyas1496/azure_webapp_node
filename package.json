@@ -8,14 +8,17 @@
     "test": "echo \"Error: no test specified\" "
   },
   "repository": {
-  "type": "git",
-  "url": ""
+    "type": "git",
+    "url": ""
   },
   "keywords": [],
   "author": "Korede Bashir",
   "license": "ISC",
   "dependencies": {
+    "@types/websocket": "^1.0.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "http": "0.0.1-security",
+    "websocket": "^1.0.31"
   }
 }

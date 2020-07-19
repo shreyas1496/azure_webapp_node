@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'ssp123'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fd630a3ab0154177a6a198c26a51ad21 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_30c9032d76414bb9b67a4d1b2cd6f211 }}
         package: .
